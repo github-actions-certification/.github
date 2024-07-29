@@ -1,0 +1,8 @@
+{
+    "name": "KodeKloud Demo Organization NodeJS CI",
+    "description": "GitHub Actions Certification CI starter workflow",
+    "iconName": "github-icon",
+    "categories": [
+        "npm"
+    ]
+    }
